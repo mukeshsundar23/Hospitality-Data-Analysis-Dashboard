@@ -16,7 +16,7 @@ This repository houses a comprehensive dashboard tailored for the hospitality in
 ## Data Source and Sample Data
 
 - Data Source: The data used in this dashboard is purely fictional and is for demonstration purposes only. It does not represent real production data from any hotel or hospitality business.
-- Sample Data: A subset of anonymized sample data is provided in this repository to showcase the capabilities of the dashboard. You can find the data in the `data` folder along with the data schema in `data_schema.txt`.
+- Sample Data: A subset of anonymized sample data is provided in this repository to showcase the capabilities of the dashboard. You can find the data in the `Resources` folder along with the data schema in `hospitality_metadata.txt`.
 
 ## Installation and Setup
 
