@@ -16,7 +16,7 @@ This repository houses a comprehensive dashboard tailored for the hospitality in
 ## Data Source and Sample Data
 
 - Data Source: The data used in this dashboard is purely fictional and is for demonstration purposes only. It does not represent real production data from any hotel or hospitality business.
-- Sample Data: A subset of anonymized sample data is provided in this repository to showcase the capabilities of the dashboard. You can find the data in the `Resources` folder along with the data schema in `hospitality_metadata.txt`.
+- Sample Data: A subset of anonymized sample data is provided in this repository to showcase the capabilities of the dashboard. You can find the data in the `Resources` folder along with the data schema in `meta_data_hospitality.txt`.
 
 ## Installation and Setup
 
@@ -24,13 +24,13 @@ This repository houses a comprehensive dashboard tailored for the hospitality in
 
 2. Ensure you have the required software installed to view the dashboard. For example, you might need Power BI Desktop or another BI tool compatible with the dashboard format.
 
-3. Open the BI tool and load the main dashboard file (e.g., `Dashboard.pbix`) from the cloned repository directory.
+3. Open the BI tool and load the main dashboard file `Dashboard.pbix` from the cloned repository directory.
 
 4. Once the dashboard is loaded, you can explore the hospitality data using the interactive visualizations.
 
 ## Screenshots
 
-![Dashboard Overview](Dashboard.png)
+![Dashboard Overview](Resources/Dashboard.png)
 
 ## Contact
 
